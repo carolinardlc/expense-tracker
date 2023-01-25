@@ -1,5 +1,6 @@
 .chart-bar {
     height: 100%;
+    width: 15px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -10,7 +11,7 @@
     width: 100%;
     border: 1px solid #313131;
     border-radius: 12px;
-    background-color: #c3b4f3;
+    background-color: #F5DCE0;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -18,13 +19,13 @@
   }
   
   .chart-bar__fill {
-    background-color: #000000;
+    background-color: #E4A0B7;
     width: 100%;
     transition: all 0.3s ease-out;
   }
   
   .chart-bar__label {
     font-weight: bold;
-    font-size: 0.5rem;
+    font-size: 0.7rem;
     text-align: center;
   }
