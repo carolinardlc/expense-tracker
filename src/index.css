@@ -11,5 +11,8 @@ html {
 body {
   margin: 0;
   background-color: #3f3f3f;
+  background-image: url('expense_tracker_background1.gif');
+  background-repeat: no-repeat; 
+  background-size: 100% auto;
 }
 
